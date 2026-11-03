@@ -5,6 +5,9 @@ https://github.com/Anni-s-Apps/flickbinge-downloads/releases/latest/download/Fli
 
 Website with install steps: https://flickbinge-app.web.app
 
+Older / 32-bit phones: [FlickBinge-armeabi-v7a.apk](https://github.com/Anni-s-Apps/flickbinge-downloads/releases/latest/download/FlickBinge-armeabi-v7a.apk) ·
+x86_64 (emulator / some tablets): [FlickBinge-x86_64.apk](https://github.com/Anni-s-Apps/flickbinge-downloads/releases/latest/download/FlickBinge-x86_64.apk)
+
 ## Install
 1. Download `FlickBinge.apk` from the link above.
 2. Open the file. If Android asks, allow **"Install unknown apps"** for your browser / Files app.
